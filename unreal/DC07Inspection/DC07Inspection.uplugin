@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1",
+  "FriendlyName": "DC-07 Rack Inspection",
+  "Description": "Click-to-inspect rack equipment, highlight related connections, and play a maintenance Level Sequence.",
+  "Category": "Simulation",
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "DC07Inspection",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "result": "pass",
+  "blender": "4.5.15 LTS",
+  "source": {
+    "mesh_objects": 334,
+    "missing_names": [],
+    "missing_materials": [],
+    "motion": {
+      "samples": 121,
+      "maximum_door_opening_deg": [
+        105.0,
+        105.0
+      ],
+      "maximum_tray_travel_m": 0.53,
+      "maximum_cable_arm_joint_gap_m": 6e-08
+    },
+    "findings": []
+  },
+  "glb_reimport": {
+    "mesh_objects": 334,
+    "missing_names": [],
+    "missing_materials": [],
+    "motion": {
+      "samples": 121,
+      "maximum_door_opening_deg": [
+        105.0,
+        105.0
+      ],
+      "maximum_tray_travel_m": 0.53,
+      "maximum_cable_arm_joint_gap_m": 1.8e-07
+    },
+    "findings": []
+  },
+  "clip": {
+    "name": "DC-07 Maintenance Demonstrator",
+    "duration_s": 6.0,
+    "animated_objects": [
+      "CMA_LINK_A",
+      "CMA_LINK_B",
+      "DOOR_FRONT",
+      "DOOR_REAR",
+      "SERVER_TRAY"
+    ]
+  },
+  "findings": []
+}
